@@ -5,3 +5,6 @@ description: A fancy description of the ultimate test blog.
 remote_theme: jekyll/minima
 minima:
   skin: auto
+
+plugins:
+  - jekyll-feed
